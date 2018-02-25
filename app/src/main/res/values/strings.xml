@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">VICTOR_1202150100_MODUL3</string>
+    <string name="deskrip_water">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+
+    <string-array name="water_merk">
+        <item>Aqua</item>
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>LeMineral</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="water_info">
+        <item>Ini adalah air minum merk Aqua</item>
+        <item>Ini adalah air minum merk Ades</item>
+        <item>Ini adalah air minum merk Amidis</item>
+        <item>Ini adalah air minum merk Cleo</item>
+        <item>Ini adalah air minum merk Club</item>
+        <item>Ini adalah air minum merk Equil</item>
+        <item>Ini adalah air minum merk Evian</item>
+        <item>Ini adalah air minum merk LeMineral</item>
+        <item>Ini adalah air minum merk Nestle</item>
+        <item>Ini adalah air minum merk Pristine</item>
+        <item>Ini adalah air minum merk Vit</item>
+    </string-array>
+
+    <array name="water_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+</resources>
+
